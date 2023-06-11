@@ -1,0 +1,15 @@
+#timerDisplay {
+    display: none;
+    position: absolute; /* Absolute positioning makes the element positioned relative to the nearest positioned ancestor */
+    top: 0; /* Position at the top of the screen */
+    left: 50%; /* Position at the middle of the screen horizontally */
+    transform: translate(-50%, 0); /* Translate -50% horizontally to truly center the div */
+    z-index: 100; /* Make sure it overlays other elements */
+    padding: 20px; /* Add some padding */
+    background-color: rgba(0, 0, 0, 0.5); /* Add some background color */
+    color: white; /* Set the text color to white */
+    font-size: 20px; /* Increase font size */
+    font-weight: bold; /* Make font bold */
+    text-align: center; /* Center the text within the element */
+    border-radius: 10px; /* Give the corners a slight roundness */
+} 
