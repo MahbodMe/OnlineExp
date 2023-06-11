@@ -1,0 +1,26 @@
+.footer-info {
+    background-color: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.container {
+    text-align: center;
+}
+
+.logo {
+    width: 400px;
+    height: auto;
+}
+
+
+.footer-info {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    color: #666;
+    background: #f9f9f9;
+    font-size: 0.9em;
+    font-style: italic;
+}
